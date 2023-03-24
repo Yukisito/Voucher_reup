@@ -1,0 +1,89 @@
+D:\source\repos\Qualitea_manager\GUI\bin\Debug\quatitea.exe.config
+D:\source\repos\Qualitea_manager\GUI\bin\Debug\quatitea.exe
+D:\source\repos\Qualitea_manager\GUI\bin\Debug\quatitea.pdb
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\MainWindow.g.cs
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\App.g.cs
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\quatitea_MarkupCompile.cache
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\quatitea_MarkupCompile.lref
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\MainWindow.baml
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\quatitea.g.resources
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\quatitea.Properties.Resources.resources
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\quatitea.exe
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\quatitea.pdb
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\Window1.g.cs
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\Window1.baml
+D:\source\repos\Qualitea_manager\GUI\bin\Debug\BUS.dll
+D:\source\repos\Qualitea_manager\GUI\bin\Debug\BUS.pdb
+D:\source\repos\Qualitea_manager\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\bin\Debug\quatitea.exe.config
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\bin\Debug\quatitea.exe
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\bin\Debug\quatitea.pdb
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\bin\Debug\BUS.dll
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\bin\Debug\BUS.pdb
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\MainWindow.g.cs
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\Window1.g.cs
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\App.g.cs
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea_MarkupCompile.cache
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea_MarkupCompile.lref
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\MainWindow.baml
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\Window1.baml
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.g.resources
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.Properties.Resources.resources
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.exe
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.pdb
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\GUI\obj\Debug\MainWindow - Voucher.g.cs
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.exe
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.pdb
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\quatitea.exe.config
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\quatitea.exe
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\quatitea.pdb
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\BUS.dll
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\BUS.pdb
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\MainWindow.g.cs
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\Window1.g.cs
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\App.g.cs
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea_MarkupCompile.cache
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea_MarkupCompile.lref
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\MainWindow.baml
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\Window1.baml
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.g.resources
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.Properties.Resources.resources
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\ATTT\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\quatitea.exe.config
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\quatitea.exe
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\quatitea.pdb
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\BUS.dll
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\BUS.pdb
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\MainWindow.g.cs
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\Window1.g.cs
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\App.g.cs
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea_MarkupCompile.cache
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea_MarkupCompile.lref
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\MainWindow.baml
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\Window1.baml
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.g.resources
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.Properties.Resources.resources
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.exe
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\obj\Debug\quatitea.pdb
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\EntityFramework.dll
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\BUS.dll.config
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\EntityFramework.xml
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\GUI\bin\Debug\EntityFramework.SqlServer.xml

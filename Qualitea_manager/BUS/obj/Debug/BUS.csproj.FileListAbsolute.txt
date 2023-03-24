@@ -1,0 +1,24 @@
+D:\source\repos\Qualitea_manager\BUS\bin\Debug\BUS.dll
+D:\source\repos\Qualitea_manager\BUS\bin\Debug\BUS.pdb
+D:\source\repos\Qualitea_manager\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\source\repos\Qualitea_manager\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\source\repos\Qualitea_manager\BUS\obj\Debug\BUS.dll
+D:\source\repos\Qualitea_manager\BUS\obj\Debug\BUS.pdb
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\BUS\bin\Debug\BUS.dll
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\BUS\bin\Debug\BUS.pdb
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\BUS\obj\Debug\BUS.dll
+E:\ATTT\webATTHTT\QualiTea\Qualitea_manager\BUS\obj\Debug\BUS.pdb
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\bin\Debug\BUS.dll.config
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\bin\Debug\BUS.dll
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\bin\Debug\BUS.pdb
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\bin\Debug\EntityFramework.dll
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\bin\Debug\EntityFramework.SqlServer.dll
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\bin\Debug\EntityFramework.xml
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\bin\Debug\EntityFramework.SqlServer.xml
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\obj\Debug\BUS.dll
+E:\WDF\webATTHTT - Copy (2)\QualiTea\Qualitea_manager\BUS\obj\Debug\BUS.pdb
